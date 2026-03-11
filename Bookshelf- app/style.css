@@ -1,0 +1,44 @@
+body{
+    font-family:Arial;
+    background:#f5f2e8;
+    text-align:center;
+    margin:0;
+    }
+    
+    .search-bar{
+    margin:20px;
+    }
+    
+    .bookshelf{
+    width:90%;
+    margin:auto;
+    }
+    
+    .shelf-row{
+    background:#8b5a2b;
+    height:220px;
+    margin:40px 0;
+    display:flex;
+    align-items:flex-end;
+    padding:10px;
+    box-shadow:0 10px 20px rgba(0,0,0,.3);
+    }
+    
+    .book{
+    margin:5px;
+    cursor:pointer;
+    }
+    
+    .book img{
+    height:180px;
+    border-radius:3px;
+    box-shadow:0 5px 10px rgba(0,0,0,.4);
+    }
+    
+    #results img{
+    height:120px;
+    margin:10px;
+    cursor:pointer;
+    }
+
+    
